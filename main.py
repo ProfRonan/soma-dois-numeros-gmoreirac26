@@ -1,7 +1,7 @@
-primeiro = input("Digite um número:")
-primeiro = int(primeiro)
+pri = input("Digite um número:")
+pri = int(pri)
 
-segundo = input("Digite outro número:")
-segundo = int(segundo)
+seg = input("Digite outro número:")
+seg = int(seg)
 
-print(primeiro + segundo)
+print(pri + seg)
